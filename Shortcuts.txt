@@ -1,0 +1,3 @@
+[p.blog.summary]->Press Tab=>  <p class="blog summary"></p>
+
+[div.people]->Press Tab=> <div class="people"></div>

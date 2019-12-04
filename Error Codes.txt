@@ -1,0 +1,5 @@
+100s- Informational
+200s- Success
+300s- Redirections
+400s-Client Errors
+500s - Server Errors

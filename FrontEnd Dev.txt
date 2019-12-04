@@ -1,0 +1,12 @@
+Front End- What code is executed on your/my computer(client computer) 
+
+It is the execution of code sent from server in response of a certain client request.
+
+It has 3 parts
+
+1)HTML- Content of the page like text,images etc
+2)CSS- Look of the page like font,spacings etc.
+3)Javascript- Behaviour of the page like responsivness, popups etc.
+
+Symantic Tagging- Using right tag for right code for proper documentation purpose to your future self and/or your colleagues.
+It also helps for proper tagging in CSS giving more hooks to style the elements.
